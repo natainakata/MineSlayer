@@ -1,13 +1,13 @@
 [
     {
-        "modid": "minecraft-forge-kotlin-template",
-        "name": "Minecraft Forge Kotlin Template",
-        "description": "injection point type '%s'",
+        "modid": "mineslayer",
+        "name": "MineSlayer",
+        "description": "RPG Mod inspired Monster Hunter and Phantasy Star Online.",
         "version": "${version}",
         "mcversion": "${mcversion}",
         "url": "",
         "updateUrl": "",
-        "authorList": [],
+        "authorList": ["natainakata"],
         "credits": "",
         "logoFile": "",
         "screenshots": [],
