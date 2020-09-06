@@ -1,19 +1,21 @@
 [
-    {
-        "modid": "mineslayer",
-        "name": "MineSlayer",
-        "description": "RPG Mod inspired Monster Hunter and Phantasy Star Online.",
-        "version": "${version}",
-        "mcversion": "${mcversion}",
-        "url": "",
-        "updateUrl": "",
-        "authorList": ["natainakata"],
-        "credits": "",
-        "logoFile": "",
-        "screenshots": [],
-        "requiredMods": [
-            "forgelin"
-        ],
-        "dependencies": []
-    }
+  {
+    "modid": "mineslayer",
+    "name": "MineSlayer",
+    "description": "RPG Mod inspired Monster Hunter and Phantasy Star Online.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "natainakata"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "requiredMods": [
+      "forgelin"
+    ],
+    "dependencies": []
+  }
 ]
